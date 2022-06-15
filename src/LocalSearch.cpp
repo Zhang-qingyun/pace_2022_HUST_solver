@@ -5,8 +5,8 @@
 #include <cassert>
 
 #include "LocalSearch.h"
-#include "minVerVC.h"
 #include "maxVerVC.h"
+#include "minVerVC.h"
 
 LS::LS(int _nodeNum, int _edgeNum, vector<Node>& _graph) : nodeNum(_nodeNum), edgeNum(_edgeNum), graph(_graph) {}
 
