@@ -8,10 +8,6 @@ See `Solver_description-HUST_RTS_SOLVER.pdf`.
 
 [![10.5281/zenodo.6643002](https://zenodo.org/badge/503428440.svg)](https://doi.org/10.5281/zenodo.6643002)
 
-```
-
-```
-
 ## Compilation
 
 ```shell
