@@ -6,7 +6,9 @@ The solver is a submission for PACE2022. ([PACE2022 Official Website](https://pa
 
 See `Solver_description-HUST_RTS_SOLVER.pdf`.
 
-[![10.5281/zenodo.6643002](https://zenodo.org/badge/503428440.svg)](https://doi.org/10.5281/zenodo.6643002)
+[![10.5281/zenodo.6658794](https://zenodo.org/badge/DOI/10.5281/zenodo.6658794.svg)](https://doi.org/10.5281/zenodo.6658794)
+
+
 
 ## Compilation
 
